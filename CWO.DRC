@@ -1,0 +1,26 @@
+Date and Time : 07/31/19 10:27:22
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1831): Unconnected pin U4,OFFSET1 
+                    SCHEMATIC1, PAGE1  (185.42, 160.02) 
+WARNING(ORCAP-1831): Unconnected pin U4,OFFSET2 
+                    SCHEMATIC1, PAGE1  (185.42, 134.62) 
+WARNING(ORCAP-1831): Unconnected pin U1,OFFSET1 
+                    SCHEMATIC1, PAGE1  (132.08, 73.66) 
+WARNING(ORCAP-1831): Unconnected pin U1,OFFSET2 
+                    SCHEMATIC1, PAGE1  (132.08, 48.26) 
+WARNING(ORCAP-1831): Unconnected pin U3,OFFSET1 
+                    SCHEMATIC1, PAGE1  (96.52, 157.48) 
+WARNING(ORCAP-1831): Unconnected pin U3,OFFSET2 
+                    SCHEMATIC1, PAGE1  (96.52, 132.08) 
+WARNING(ORCAP-1831): Unconnected pin U2,OFFSET1 
+                    SCHEMATIC1, PAGE1  (238.76, 76.20) 
+WARNING(ORCAP-1831): Unconnected pin U2,OFFSET2 
+                    SCHEMATIC1, PAGE1  (238.76, 50.80) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
